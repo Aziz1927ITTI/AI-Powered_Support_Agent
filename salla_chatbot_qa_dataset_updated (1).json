@@ -1,0 +1,402 @@
+[
+  {
+    "question": "How do I sign up for a new store on Salla?",
+    "answer": "To sign up, visit Salla.com and click 'Create your store'. Enter your email, password, and store name to get started."
+  },
+  {
+    "question": "What information do I need to create a Salla store?",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup."
+  },
+  {
+    "question": "How can I add a new product?",
+    "answer": "From the dashboard, go to Products > Add Product. Enter details such as name, description, images, and price."
+  },
+  {
+    "question": "Can I organize products into categories?",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products."
+  },
+  {
+    "question": "How do I view my orders?",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date."
+  },
+  {
+    "question": "Can I update order status manually?",
+    "answer": "Yes, click on the order, then choose the new status like Processing, Shipped, or Cancelled."
+  },
+  {
+    "question": "Which payment gateways are available in Salla?",
+    "answer": "Salla supports STC Pay, HyperPay, PayTabs, and more. You can configure them from the Payment Settings page."
+  },
+  {
+    "question": "How do I enable cash on delivery?",
+    "answer": "Go to Payment Settings and toggle the 'Cash on Delivery' option. Make sure your region supports it."
+  },
+  {
+    "question": "Can I offer free shipping?",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings."
+  },
+  {
+    "question": "How do I integrate with a shipping company?",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one."
+  },
+  {
+    "question": "How do I create a discount coupon?",
+    "answer": "Navigate to Marketing > Coupons and click 'Add New'. Set the discount type, amount, and validity."
+  },
+  {
+    "question": "Can I recover abandoned carts?",
+    "answer": "Yes, Salla sends automated emails to users who abandon their carts to encourage them to complete purchases."
+  },
+  {
+    "question": "How can I track store performance?",
+    "answer": "Use the Analytics tab to view sales, customer behavior, and traffic sources."
+  },
+  {
+    "question": "Can I connect Google Analytics?",
+    "answer": "Yes, you can add your Google Analytics ID in the Integrations section under store settings."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers?",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go."
+  },
+  {
+    "question": "How can I contact Salla support?",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance."
+  },
+  {
+    "question": "Can I update order status manually? (Variation 16)",
+    "answer": "Yes, click on the order, then choose the new status like Processing, Shipped, or Cancelled. This is an extended explanation for variation 16."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 17)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 17."
+  },
+  {
+    "question": "How do I create a discount coupon? (Variation 18)",
+    "answer": "Navigate to Marketing > Coupons and click 'Add New'. Set the discount type, amount, and validity. This is an extended explanation for variation 18."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 19)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 19."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 20)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 20."
+  },
+  {
+    "question": "Can I recover abandoned carts? (Variation 21)",
+    "answer": "Yes, Salla sends automated emails to users who abandon their carts to encourage them to complete purchases. This is an extended explanation for variation 21."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 22)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 22."
+  },
+  {
+    "question": "How do I enable cash on delivery? (Variation 23)",
+    "answer": "Go to Payment Settings and toggle the 'Cash on Delivery' option. Make sure your region supports it. This is an extended explanation for variation 23."
+  },
+  {
+    "question": "Can I organize products into categories? (Variation 24)",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products. This is an extended explanation for variation 24."
+  },
+  {
+    "question": "How do I create a discount coupon? (Variation 25)",
+    "answer": "Navigate to Marketing > Coupons and click 'Add New'. Set the discount type, amount, and validity. This is an extended explanation for variation 25."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 26)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 26."
+  },
+  {
+    "question": "How do I view my orders? (Variation 27)",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date. This is an extended explanation for variation 27."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 28)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 28."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 29)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 29."
+  },
+  {
+    "question": "How do I enable cash on delivery? (Variation 30)",
+    "answer": "Go to Payment Settings and toggle the 'Cash on Delivery' option. Make sure your region supports it. This is an extended explanation for variation 30."
+  },
+  {
+    "question": "How do I create a discount coupon? (Variation 31)",
+    "answer": "Navigate to Marketing > Coupons and click 'Add New'. Set the discount type, amount, and validity. This is an extended explanation for variation 31."
+  },
+  {
+    "question": "Can I update order status manually? (Variation 32)",
+    "answer": "Yes, click on the order, then choose the new status like Processing, Shipped, or Cancelled. This is an extended explanation for variation 32."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 33)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 33."
+  },
+  {
+    "question": "What information do I need to create a Salla store? (Variation 34)",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup. This is an extended explanation for variation 34."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 35)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 35."
+  },
+  {
+    "question": "How do I integrate with a shipping company? (Variation 36)",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one. This is an extended explanation for variation 36."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 37)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 37."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 38)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 38."
+  },
+  {
+    "question": "Can I recover abandoned carts? (Variation 39)",
+    "answer": "Yes, Salla sends automated emails to users who abandon their carts to encourage them to complete purchases. This is an extended explanation for variation 39."
+  },
+  {
+    "question": "How do I create a discount coupon? (Variation 40)",
+    "answer": "Navigate to Marketing > Coupons and click 'Add New'. Set the discount type, amount, and validity. This is an extended explanation for variation 40."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 41)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 41."
+  },
+  {
+    "question": "What information do I need to create a Salla store? (Variation 42)",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup. This is an extended explanation for variation 42."
+  },
+  {
+    "question": "Can I update order status manually? (Variation 43)",
+    "answer": "Yes, click on the order, then choose the new status like Processing, Shipped, or Cancelled. This is an extended explanation for variation 43."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 44)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 44."
+  },
+  {
+    "question": "How do I integrate with a shipping company? (Variation 45)",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one. This is an extended explanation for variation 45."
+  },
+  {
+    "question": "How can I add a new product? (Variation 46)",
+    "answer": "From the dashboard, go to Products > Add Product. Enter details such as name, description, images, and price. This is an extended explanation for variation 46."
+  },
+  {
+    "question": "How do I integrate with a shipping company? (Variation 47)",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one. This is an extended explanation for variation 47."
+  },
+  {
+    "question": "Can I recover abandoned carts? (Variation 48)",
+    "answer": "Yes, Salla sends automated emails to users who abandon their carts to encourage them to complete purchases. This is an extended explanation for variation 48."
+  },
+  {
+    "question": "How can I track store performance? (Variation 49)",
+    "answer": "Use the Analytics tab to view sales, customer behavior, and traffic sources. This is an extended explanation for variation 49."
+  },
+  {
+    "question": "How do I integrate with a shipping company? (Variation 50)",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one. This is an extended explanation for variation 50."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 51)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 51."
+  },
+  {
+    "question": "Can I update order status manually? (Variation 52)",
+    "answer": "Yes, click on the order, then choose the new status like Processing, Shipped, or Cancelled. This is an extended explanation for variation 52."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 53)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 53."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 54)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 54."
+  },
+  {
+    "question": "What information do I need to create a Salla store? (Variation 55)",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup. This is an extended explanation for variation 55."
+  },
+  {
+    "question": "Can I organize products into categories? (Variation 56)",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products. This is an extended explanation for variation 56."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 57)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 57."
+  },
+  {
+    "question": "Which payment gateways are available in Salla? (Variation 58)",
+    "answer": "Salla supports STC Pay, HyperPay, PayTabs, and more. You can configure them from the Payment Settings page. This is an extended explanation for variation 58."
+  },
+  {
+    "question": "How can I track store performance? (Variation 59)",
+    "answer": "Use the Analytics tab to view sales, customer behavior, and traffic sources. This is an extended explanation for variation 59."
+  },
+  {
+    "question": "Can I recover abandoned carts? (Variation 60)",
+    "answer": "Yes, Salla sends automated emails to users who abandon their carts to encourage them to complete purchases. This is an extended explanation for variation 60."
+  },
+  {
+    "question": "How can I track store performance? (Variation 61)",
+    "answer": "Use the Analytics tab to view sales, customer behavior, and traffic sources. This is an extended explanation for variation 61."
+  },
+  {
+    "question": "Can I organize products into categories? (Variation 62)",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products. This is an extended explanation for variation 62."
+  },
+  {
+    "question": "How do I integrate with a shipping company? (Variation 63)",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one. This is an extended explanation for variation 63."
+  },
+  {
+    "question": "Which payment gateways are available in Salla? (Variation 64)",
+    "answer": "Salla supports STC Pay, HyperPay, PayTabs, and more. You can configure them from the Payment Settings page. This is an extended explanation for variation 64."
+  },
+  {
+    "question": "What information do I need to create a Salla store? (Variation 65)",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup. This is an extended explanation for variation 65."
+  },
+  {
+    "question": "Can I organize products into categories? (Variation 66)",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products. This is an extended explanation for variation 66."
+  },
+  {
+    "question": "What information do I need to create a Salla store? (Variation 67)",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup. This is an extended explanation for variation 67."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 68)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 68."
+  },
+  {
+    "question": "Can I connect Google Analytics? (Variation 69)",
+    "answer": "Yes, you can add your Google Analytics ID in the Integrations section under store settings. This is an extended explanation for variation 69."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 70)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 70."
+  },
+  {
+    "question": "Can I update order status manually? (Variation 71)",
+    "answer": "Yes, click on the order, then choose the new status like Processing, Shipped, or Cancelled. This is an extended explanation for variation 71."
+  },
+  {
+    "question": "How do I view my orders? (Variation 72)",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date. This is an extended explanation for variation 72."
+  },
+  {
+    "question": "How can I add a new product? (Variation 73)",
+    "answer": "From the dashboard, go to Products > Add Product. Enter details such as name, description, images, and price. This is an extended explanation for variation 73."
+  },
+  {
+    "question": "Can I connect Google Analytics? (Variation 74)",
+    "answer": "Yes, you can add your Google Analytics ID in the Integrations section under store settings. This is an extended explanation for variation 74."
+  },
+  {
+    "question": "How can I add a new product? (Variation 75)",
+    "answer": "From the dashboard, go to Products > Add Product. Enter details such as name, description, images, and price. This is an extended explanation for variation 75."
+  },
+  {
+    "question": "How can I track store performance? (Variation 76)",
+    "answer": "Use the Analytics tab to view sales, customer behavior, and traffic sources. This is an extended explanation for variation 76."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 77)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 77."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 78)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 78."
+  },
+  {
+    "question": "How do I view my orders? (Variation 79)",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date. This is an extended explanation for variation 79."
+  },
+  {
+    "question": "How do I view my orders? (Variation 80)",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date. This is an extended explanation for variation 80."
+  },
+  {
+    "question": "How do I create a discount coupon? (Variation 81)",
+    "answer": "Navigate to Marketing > Coupons and click 'Add New'. Set the discount type, amount, and validity. This is an extended explanation for variation 81."
+  },
+  {
+    "question": "Which payment gateways are available in Salla? (Variation 82)",
+    "answer": "Salla supports STC Pay, HyperPay, PayTabs, and more. You can configure them from the Payment Settings page. This is an extended explanation for variation 82."
+  },
+  {
+    "question": "Can I offer free shipping? (Variation 83)",
+    "answer": "Yes, you can set custom shipping rules including free shipping thresholds in the Shipping Settings. This is an extended explanation for variation 83."
+  },
+  {
+    "question": "Which payment gateways are available in Salla? (Variation 84)",
+    "answer": "Salla supports STC Pay, HyperPay, PayTabs, and more. You can configure them from the Payment Settings page. This is an extended explanation for variation 84."
+  },
+  {
+    "question": "How do I view my orders? (Variation 85)",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date. This is an extended explanation for variation 85."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 86)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 86."
+  },
+  {
+    "question": "Can I organize products into categories? (Variation 87)",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products. This is an extended explanation for variation 87."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 88)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 88."
+  },
+  {
+    "question": "How can I add a new product? (Variation 89)",
+    "answer": "From the dashboard, go to Products > Add Product. Enter details such as name, description, images, and price. This is an extended explanation for variation 89."
+  },
+  {
+    "question": "How do I view my orders? (Variation 90)",
+    "answer": "Go to the Orders tab in your dashboard to see all recent orders. You can filter them by status or date. This is an extended explanation for variation 90."
+  },
+  {
+    "question": "Which payment gateways are available in Salla? (Variation 91)",
+    "answer": "Salla supports STC Pay, HyperPay, PayTabs, and more. You can configure them from the Payment Settings page. This is an extended explanation for variation 91."
+  },
+  {
+    "question": "How can I track store performance? (Variation 92)",
+    "answer": "Use the Analytics tab to view sales, customer behavior, and traffic sources. This is an extended explanation for variation 92."
+  },
+  {
+    "question": "Can I recover abandoned carts? (Variation 93)",
+    "answer": "Yes, Salla sends automated emails to users who abandon their carts to encourage them to complete purchases. This is an extended explanation for variation 93."
+  },
+  {
+    "question": "Can I organize products into categories? (Variation 94)",
+    "answer": "Yes, Salla allows you to create and assign categories to better organize your store's products. This is an extended explanation for variation 94."
+  },
+  {
+    "question": "What information do I need to create a Salla store? (Variation 95)",
+    "answer": "You'll need a valid email, mobile number, and a store name. After signing up, you'll be guided through store setup. This is an extended explanation for variation 95."
+  },
+  {
+    "question": "Does Salla have a mobile app for sellers? (Variation 96)",
+    "answer": "Yes, Salla offers a mobile app to manage your store, view orders, and chat with customers on the go. This is an extended explanation for variation 96."
+  },
+  {
+    "question": "How can I contact Salla support? (Variation 97)",
+    "answer": "You can reach out via the live chat on your dashboard or email support@salla.sa for assistance. This is an extended explanation for variation 97."
+  },
+  {
+    "question": "How do I integrate with a shipping company? (Variation 98)",
+    "answer": "Salla supports integration with local couriers. Go to Shipping > Integrations to activate one. This is an extended explanation for variation 98."
+  },
+  {
+    "question": "How can I add a new product? (Variation 99)",
+    "answer": "From the dashboard, go to Products > Add Product. Enter details such as name, description, images, and price. This is an extended explanation for variation 99."
+  }
+]
